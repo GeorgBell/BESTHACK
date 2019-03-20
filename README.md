@@ -1,0 +1,2 @@
+# BESTHACK
+BMSTU Hackathon
