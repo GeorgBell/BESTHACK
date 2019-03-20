@@ -4,7 +4,7 @@
 ### Выполнила команда GITT
 
 ### Пояснения к решению
-Файл решения представлен в виде **Hackathon.ipynb** Jupyter Notebook-файла с пояснениями
+Файл решения представлен в виде [**Hackathon.ipynb**](https://github.com/GeorgBell/BESTHACK/blob/master/Программа/Hackathon.ipynb) Jupyter Notebook-файла с пояснениями
 #### 1. Алгоритм решения
 ![alt text](https://github.com/GeorgBell/BESTHACK/blob/master/Программа/Pics/Algorithm.png)
 
